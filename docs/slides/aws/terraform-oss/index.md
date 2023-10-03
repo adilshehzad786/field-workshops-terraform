@@ -38,10 +38,9 @@ layout: true
 ---
 name: Introductions
 # Introductions
-- Your Name
-- Job Title
-- Automation Experience
-- Favorite Text Editor
+- Adil Shehzad
+- Senior DevOps Engineer
+
 
 ???
 Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
